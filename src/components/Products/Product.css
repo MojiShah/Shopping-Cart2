@@ -1,0 +1,17 @@
+.laptops {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: flex-start;
+}
+
+.products_list h1 {
+    text-align: center;
+    margin: 40px auto;
+    background-color: #f0be77ea;
+    /* padding: 20px 40px; */
+}
+
+.products_list button{
+    display: block;
+    margin: 20px auto;
+}
